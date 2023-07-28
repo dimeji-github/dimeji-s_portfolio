@@ -1,5 +1,3 @@
-# dimeji's_portfolio
-
 # Movie Recommender System
 
 This is a project I did in one of my classes, I built a movie recommendation.
