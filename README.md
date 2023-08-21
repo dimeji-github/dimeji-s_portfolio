@@ -9,7 +9,7 @@ Are you tired of spending more time on the next movie to watch after seeing a mo
 The datasets used in this recommendation algorithm are three: movies, genres, and ratings. 
 
 ### Description
-For this project, before we could start conducting recommender systems, I needed to filter the movies based on it being a comedy. The movie used in building this recommender system is Antz - an animated comedy movie produced by DreamWorks.
+For this project, before we could start conducting recommender systems, I needed to prepare the data and filter the movies based on it being animation. The movie used in building this recommender system is Antz - an animated comedy movie produced by DreamWorks.
 
 To create the recommender system, I had to first run PCA to identify the number of components to include when creating correlation matrix. The dimensions were reduced to a more reasonable number that still captures the explained variance.
 
